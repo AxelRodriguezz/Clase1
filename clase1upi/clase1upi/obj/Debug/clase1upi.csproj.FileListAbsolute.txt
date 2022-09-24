@@ -1,0 +1,8 @@
+C:\Users\CURLING\source\repos\clase1upi\clase1upi\bin\Debug\clase1upi.exe.config
+C:\Users\CURLING\source\repos\clase1upi\clase1upi\bin\Debug\clase1upi.exe
+C:\Users\CURLING\source\repos\clase1upi\clase1upi\bin\Debug\clase1upi.pdb
+C:\Users\CURLING\source\repos\clase1upi\clase1upi\obj\Debug\clase1upi.csproj.AssemblyReference.cache
+C:\Users\CURLING\source\repos\clase1upi\clase1upi\obj\Debug\clase1upi.csproj.SuggestedBindingRedirects.cache
+C:\Users\CURLING\source\repos\clase1upi\clase1upi\obj\Debug\clase1upi.csproj.CoreCompileInputs.cache
+C:\Users\CURLING\source\repos\clase1upi\clase1upi\obj\Debug\clase1upi.exe
+C:\Users\CURLING\source\repos\clase1upi\clase1upi\obj\Debug\clase1upi.pdb
